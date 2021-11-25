@@ -1,6 +1,5 @@
 # Skydiving Golang
-I plan to walk you guys around the uniqueness of golang, and the thing that I found quite confuse
-at first when I pick up on this language. 
+Note taking golang
 
 ## Agenda
 - Basic ex. Variable, control flows, function, defer
