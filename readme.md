@@ -1,5 +1,5 @@
 # Skydiving Golang
-Note taking golang
+Golang workshop to share with colleague
 
 ## Agenda
 - Basic ex. Variable, control flows, function, defer
